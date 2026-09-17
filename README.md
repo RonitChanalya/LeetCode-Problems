@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -27,4 +28,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
