@@ -32,10 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/RonitChanalya/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
